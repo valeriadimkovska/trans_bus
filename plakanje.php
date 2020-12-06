@@ -149,13 +149,9 @@ $db->close();
           
 <!-- CREDIT CARD FORM ENDS HERE -->
 
-
-          
-
         </form>
     </div>
-    
-    
+
 
 	<!-- If you're using Stripe for payments -->
             </div>

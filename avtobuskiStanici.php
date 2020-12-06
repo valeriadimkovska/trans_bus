@@ -27,7 +27,6 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
 
-    
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
@@ -173,19 +172,14 @@
 		</tr>
 	</table>
 </div>
-                                <br />
-                                
-                    
-            </div>
-        
-                       
+                                <br/>
+            </div>    
     </td>
     </tr>
       </table>
             </center>
       </section>
       
-          
 
            <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
